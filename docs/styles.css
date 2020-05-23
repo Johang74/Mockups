@@ -43,3 +43,8 @@ section{
     column-gap: 1em;
     row-gap: 2em;
 }
+
+.link{
+    color: black;
+    text-decoration: none;
+}
